@@ -8,7 +8,7 @@ Summary:	Sphinx domain for documenting HTTP APIs
 Summary(pl.UTF-8):	Domena Sphinksa do dokumentacji API HTTP
 Name:		python-sphinxcontrib-httpdomain
 Version:	1.8.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-httpdomain/
